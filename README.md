@@ -11,5 +11,5 @@ Compile: `make`
 
 Execution:
 
--Full printing: `./main SIZE_OF_VECTOR` (it will print the vector before and after the search)  
+- **Full printing:** `./main SIZE_OF_VECTOR` (it will print the vector before and after the search)  
 - **No printing of vector**: `./main SIZE_OF_VECTOR -v` (suggested for big sizes)
